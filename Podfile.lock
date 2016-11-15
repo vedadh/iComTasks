@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.0.1)
+  - PromiseKit (4.0.4):
+    - PromiseKit/Foundation (= 4.0.4)
+    - PromiseKit/QuartzCore (= 4.0.4)
+    - PromiseKit/UIKit (= 4.0.4)
+  - PromiseKit/CorePromise (4.0.4)
+  - PromiseKit/Foundation (4.0.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (4.0.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (4.0.4):
+    - PromiseKit/CorePromise
+  - Unbox (2.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - PromiseKit (~> 4.0)
+  - Unbox
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  PromiseKit: 8e8ee39d33ff199d92a1a883b5396f6285be6c91
+  Unbox: 03d7128ce429987986bc08d967e9d5e0da158946
+
+PODFILE CHECKSUM: 5afbf1d32d8f05faa65479dfa6768514cc569ae2
+
+COCOAPODS: 1.1.1
